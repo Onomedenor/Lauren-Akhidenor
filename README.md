@@ -17,7 +17,7 @@ Final-year Agricultural Economics student focused on food insecurity, climate ch
 - **SOCIO-ECONOMIC CHARACTERISTICS, FARMING PRACTICES, AND PRODUCTIVITY OF MAIZE FARMERS IN KENYA (BUNGOMA COUNTY)**  
   *This project analyzes data from a field survey conducted in four sub-counties of Bungoma County—Chwele, Sirisia, Tongaren, and Webuye West. It explores how socio-economic characteristics, farming practices, and access to agricultural support impact maize productivity in the region.*
 
-- [![View Project](https://img.shields.io/badge/GitHub-View_Project-blue?logo=github)](https://github.com/Lauren-Akhidenor/Analysis-for-Bungoma-Kenya./blob/main/Analysis-for-Bungoma-Kenya.README.md)
+[![View Project](https://img.shields.io/badge/GitHub-View_Project-blue?logo=github)](https://github.com/Lauren-Akhidenor/Analysis-for-Bungoma-Kenya./blob/main/Analysis-for-Bungoma-Kenya.README.md)
   
   
 - **ENHANCING SUSTAINABLE CABBAGE PRODUCTION THROUGH MYCORRHIZAL INOCULATION: A COST-BENEFIT PERSPECTIVE**  
