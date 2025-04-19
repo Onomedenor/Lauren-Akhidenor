@@ -12,7 +12,9 @@ Final-year Agricultural Economics student focused on food insecurity, climate ch
 ## 📚 Data Analysis Projects
 - **ANALYZING THE PARTICIPATION LEVEL OF POULTRY FARMERS IN AGRICULTURAL INSURANCE IN NORTHERN NIGERIA**
    *This project explores factors influencing the low participation of poultry farmers in agricultural insurance across 7 Northern Nigerian states. It involves data cleaning, descriptive statistics, and visual insights using Excel and Power BI. Socio-economic characteristics such as income, education, and farm size were analyzed to determine their effect on insurance uptake.*
-- Link: (https://medium.com/@onomedenor24/analyzing-the-participation-level-of-poultry-farmers-in-agricultural-insurance-in-northern-nigeria-aead01f9ed6b)
+
+[![View Project](https://img.shields.io/badge/GitHub-View_Project-blue?logo=github)](https://github.com/Lauren-Akhidenor/Agricultural-Insurance-Northern-State-Nigeria/blob/main/README.md)
+
   
 - **SOCIO-ECONOMIC CHARACTERISTICS, FARMING PRACTICES, AND PRODUCTIVITY OF MAIZE FARMERS IN KENYA (BUNGOMA COUNTY)**  
   *This project analyzes data from a field survey conducted in four sub-counties of Bungoma County—Chwele, Sirisia, Tongaren, and Webuye West. It explores how socio-economic characteristics, farming practices, and access to agricultural support impact maize productivity in the region.*
