@@ -13,17 +13,21 @@ Final-year Agricultural Economics student focused on food insecurity, climate ch
 - **ANALYZING THE PARTICIPATION LEVEL OF POULTRY FARMERS IN AGRICULTURAL INSURANCE IN NORTHERN NIGERIA**
    *This project explores factors influencing the low participation of poultry farmers in agricultural insurance across 7 Northern Nigerian states. It involves data cleaning, descriptive statistics, and visual insights using Excel and Power BI. Socio-economic characteristics such as income, education, and farm size were analyzed to determine their effect on insurance uptake.*
 
-[![View Project](https://img.shields.io/badge/GitHub-View_Project-blue?logo=github)](https://github.com/Lauren-Akhidenor/Agricultural-Insurance-Northern-State-Nigeria/blob/main/README.md)
+[![🌾 Agricultural Insurance 🛡️](https://img.shields.io/badge/GitHub-🌾_Agricultural_Insurance_🛡️-purple?logo=github&labelColor=red)](https://github.com/Lauren-Akhidenor/Agricultural-Insurance-Northern-State-Nigeria/blob/main/README.md)
 
   
 - **SOCIO-ECONOMIC CHARACTERISTICS, FARMING PRACTICES, AND PRODUCTIVITY OF MAIZE FARMERS IN KENYA (BUNGOMA COUNTY)**  
   *This project analyzes data from a field survey conducted in four sub-counties of Bungoma County—Chwele, Sirisia, Tongaren, and Webuye West. It explores how socio-economic characteristics, farming practices, and access to agricultural support impact maize productivity in the region.*
 
-[![View Project](https://img.shields.io/badge/GitHub-View_Project-blue?logo=github)](https://github.com/Lauren-Akhidenor/Analysis-for-Bungoma-Kenya./blob/main/Analysis-for-Bungoma-Kenya.README.md)
+[![🌍 Bungoma Kenya Analysis 📊](https://img.shields.io/badge/GitHub-🌍_Bungoma_Kenya_Analysis_📊-blue?logo=github)](https://github.com/Lauren-Akhidenor/Analysis-for-Bungoma-Kenya./blob/main/Analysis-for-Bungoma-Kenya.README.md)
   
   
 - **ENHANCING SUSTAINABLE CABBAGE PRODUCTION THROUGH MYCORRHIZAL INOCULATION: A COST-BENEFIT PERSPECTIVE**  
   *An experimental project assessing the agronomic and economic effects of mycorrhizal fungi on cabbage farming in Kenya, aimed at improving soil health, productivity, and profitability for smallholder farmers.*
+
+[![🥬 Cabbage Production & Mycorrhizae 💰](https://img.shields.io/badge/GitHub-🥬_Cabbage_Production_&_Mycorrhizae_💰-brown?logo=github&labelColor=darkgreen)](https://github.com/Lauren-Akhidenor/Cost-Benefit-Analysis-Cabbage/blob/main/README.md)
+
+
 
 
 ## Passion
