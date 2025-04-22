@@ -6,9 +6,9 @@ Final-year Agricultural Economics student focused on food insecurity, climate ch
 --------
 ## 🧰 Tools & Skills
 - Power BI | SPSS | Excel | STATA
-- Data Analysis & Visualization
 - Agricultural & Environmental Economics
 - Financial Metrics Analysis
+- UI/UX design
 
 
 
@@ -33,6 +33,15 @@ Final-year Agricultural Economics student focused on food insecurity, climate ch
   *An experimental project assessing the agronomic and economic effects of mycorrhizal fungi on cabbage farming in Kenya, aimed at improving soil health, productivity, and profitability for smallholder farmers.*
 
 [![🥬 Cabbage Production & Mycorrhizae 💰](https://img.shields.io/badge/GitHub-🥬_Cabbage_Production_&_Mycorrhizae_💰-brown?logo=github&labelColor=darkgreen)](https://github.com/Lauren-Akhidenor/Cost-Benefit-Analysis-Cabbage/blob/main/README.md)
+
+
+
+--------
+ ## 💻 UI/UX Design
+ - **A NAIJA MARKET WATCH INITATIVE**
+*An innovative project designed to track and analyze food prices across Nigerian markets, providing real-time data and insights to help farmers, consumers, and policymakers make informed decisions, ensuring improved food security and sustainable agricultural development.*
+
+[![Naija Market Watch UI/UX](https://img.shields.io/badge/Naija_Market_Watch_UI%2FUX-green?logo=figma&logoColor=white&labelColor=darkgreen)](https://github.com/Lauren-Akhidenor/NWM/blob/main/README.md)
 
 
 
