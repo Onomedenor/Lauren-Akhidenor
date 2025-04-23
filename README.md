@@ -5,7 +5,7 @@ Final-year Agricultural Economics student focused on food insecurity, climate ch
 
 --------
 ## 🧰 Tools & Skills
-- Power BI | SPSS | Excel | STATA
+- Power BI | SPSS | Excel | PYTHON (GOOGLE COLAB)
 - Agricultural & Environmental Economics
 - Financial Metrics Analysis
 - UI/UX design
@@ -25,6 +25,15 @@ Final-year Agricultural Economics student focused on food insecurity, climate ch
 
 [![🌍 Bungoma Kenya Analysis 📊](https://img.shields.io/badge/GitHub-🌍_Bungoma_Kenya_Analysis_📊-blue?logo=github)](https://github.com/Lauren-Akhidenor/Analysis-for-Bungoma-Kenya./blob/main/Analysis-for-Bungoma-Kenya.README.md)
   
+  
+- **THE INFLUENCE OF CLIMATE CHANGE EXPECTATIONS AND SECTORAL DIFFERENCES ON FOOD PRICES IN NIGERIA**  
+  *This project examines the relationship between climate change expectations and food price variations across Nigeria. By analyzing data on climate perceptions, sectoral differences (urban vs rural), and food price trends, the study sheds light on how these factors shape the agricultural market and food security in the country.*
+
+
+[![The Influence of Climate Change Expectations and Sectoral Differences on Food Prices in Nigeria](https://img.shields.io/badge/GitHub-Project%20Details-blue?logo=github&logoColor=white)](https://github.com/Lauren-Akhidenor/Foodprice_ClimateChange)
+
+
+
 
 
 --------
