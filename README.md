@@ -33,6 +33,11 @@ Final-year Agricultural Economics student focused on food insecurity, climate ch
 [![The Influence of Climate Change Expectations and Sectoral Differences on Food Prices in Nigeria](https://img.shields.io/badge/GitHub-Project%20Details-blue?logo=github&logoColor=white)](https://github.com/Lauren-Akhidenor/Foodprice_ClimateChange)
 
 
+-**🌍 QUANTIFYING THE ECONOMIC BURDEN OF CLIMATE-INDUCED HEALTH RISKS IN NIGERIA**
+
+*This project examines how climate-induced health risks (CIHR)—such as heat stress, malaria, and cholera—affect labour productivity and food security in Nigerian agricultural households. It applies econometric modeling using OLS and logistic regression on nationally representative GHS-Panel data, supported with visual and policy-driven insights.*
+
+[![🧑🏽‍🌾 Climate Health & Labour 📉](https://img.shields.io/badge/GitHub-🧑🏽‍🌾_Climate_Health_&_Labour_📉-beige?logo=github&labelColor=brown)](https://github.com/Onomedenor/QUANTIFYING-THE-ECONOMIC-BURDEN-OF-CLIMATE-INDUCED-HEALTH-RISKS-IN-NIGERIA/blob/main/README.md)
 
 
 
